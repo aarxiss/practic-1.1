@@ -1,4 +1,4 @@
-//# practic-1.1
+ //# practic-1.1
 #include <iostream>
 using namespace std;
 
